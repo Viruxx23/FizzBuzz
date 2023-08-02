@@ -1,7 +1,7 @@
 # FIZZBUZ
 FizzBuzz es un famoso juego en el que, para los números del 1 al 100, si un número es divisible por 3, se imprime "Fizz"; si es divisible por 5, se imprime "Buzz"; y si es divisible por ambos, se imprime "FizzBuzz". Si el número no cumple ninguna de estas condiciones, simplemente se imprime el número.
 
-### Requsitos
+### Requisitos
 - Python 3.X
 
 ### Cómo jugar
