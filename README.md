@@ -9,3 +9,6 @@ FizzBuzz es un famoso juego en el que, para los números del 1 al 100, si un nú
 1. Clona el repositorio o copia el contenido del archivo fizzbuzz.py en tu entorno de Python.
 2. Ejecuta el programa app.py.
 3. Observa la salida en la consola con los resultados del juego FizzBuzz para los números del 1 al 100.
+
+### Contribuciones
+Si encuentras algún error o tienes alguna mejora que aportar, ¡siéntete libre de contribuir! Crea un pull request para discutir tus ideas.
